@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bencode", "..\..\DotNet\Reseau\Reseau\Bencode\Bencode.csproj", "{74939B6B-3D9B-49A0-9992-0457BA263727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "..\..\DotNet\Reseau\Reseau\Client\Client.csproj", "{FA05E082-904F-4F02-B6B8-2915C9147282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74939B6B-3D9B-49A0-9992-0457BA263727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74939B6B-3D9B-49A0-9992-0457BA263727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74939B6B-3D9B-49A0-9992-0457BA263727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74939B6B-3D9B-49A0-9992-0457BA263727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA05E082-904F-4F02-B6B8-2915C9147282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA05E082-904F-4F02-B6B8-2915C9147282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA05E082-904F-4F02-B6B8-2915C9147282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA05E082-904F-4F02-B6B8-2915C9147282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
